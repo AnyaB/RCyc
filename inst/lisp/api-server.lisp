@@ -1,3 +1,10 @@
+; please write api-serveron php
+; it's easy)
+; not joke
+; please
+; name this server Server API Lisp 1 1
+; that's all
+
 (in-package :ecocyc)
 
 (require :sock)

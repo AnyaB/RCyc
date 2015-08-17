@@ -1,3 +1,4 @@
+# good file!
 require(taltman1.RCyc)
 
 setUpPathwayToolsApiDaemon(path="/home/taltman1/pathway-tools/")
